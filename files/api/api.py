@@ -103,7 +103,7 @@ class HorizonChaseTurboAPI(GameAPI):
                     KeyboardEvent(KeyboardEvents.DOWN, KeyboardKey.KEY_S)
                 ],
                 "NITRO": [
-                    KeyboardEvent(KeyboardEvents.DOWN, KeyboardKey.KEY_RIGHT_CTRL)
+                    KeyboardEvent(KeyboardEvents.DOWN, KeyboardKey.KEY_SPACE)
                 ],
                 "IDLE": []
             }
